@@ -1,0 +1,42 @@
+body {
+  background-color: #5e9ea0;
+  font-size: 22px;
+}
+main {
+  text-align: center;
+  border: 1px solid gainsboro;
+  max-width: 300px;
+  padding: 3px;
+}
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  object-position: center;
+}
+.one {
+  background-color: #e85b26;
+  padding-top: 123px;
+}
+.size {
+  max-width: 300px;
+  max-height: 200px;
+}
+.two {
+  background-color: #ffffff;
+  padding: 80px 0;
+}
+
+.two-btn {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  border: 1px solid;
+  padding: 5px 5px 5px 30px;
+}
+.color {
+  font-size: 10px;
+  color: gray;
+  padding: 5px 0;
+}
