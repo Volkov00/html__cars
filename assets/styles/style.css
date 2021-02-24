@@ -14,10 +14,10 @@ img {
   object-fit: cover;
   border-radius: 50%;
   object-position: center;
+  margin-top: 118px;
 }
 .one {
   background-color: #e85b26;
-  padding-top: 123px;
 }
 .size {
   max-width: 300px;
